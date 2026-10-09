@@ -13,6 +13,10 @@ payment was authorized — without publishing the full payroll list or the exact
 
 Everything below is deployed and wired together on **Stellar Testnet**.
 
+
+<img width="1600" height="1000" alt="crowder-stellar" src="https://github.com/user-attachments/assets/ac4e85c7-6cf4-475e-bd2f-a9429b037e15" />
+
+
 ## Repositories
 
 | Repo | Stack | What it does |
